@@ -1,0 +1,7 @@
+.ant-transfer-list-header-dropdown {
+    display: none;
+}
+.ant-transfer-list {
+    width: 50% !important;
+    overflow: scroll;
+}

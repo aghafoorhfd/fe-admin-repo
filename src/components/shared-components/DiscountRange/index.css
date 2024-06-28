@@ -1,0 +1,11 @@
+.discount-tag .ant-btn-link{
+    color: rgb(42, 89, 209);
+    width: 14px;
+}
+.discount-tag .ant-btn-link:disabled{
+    color: rgb(208, 212, 215);
+    border-color: transparent;
+    background: 0px 0px;
+    text-shadow: none;
+    box-shadow: none;
+}

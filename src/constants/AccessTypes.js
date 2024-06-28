@@ -1,0 +1,5 @@
+export const ACCESS_TYPES = {
+  SYSTEM_ADMIN: 'SYSTEM_ADMIN',
+  SALES: 'SALES',
+  SUPPORT: 'SUPPORT'
+};

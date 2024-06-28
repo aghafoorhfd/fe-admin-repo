@@ -1,0 +1,7 @@
+{
+    "home": "主页",
+    
+	"sidenav.dashboard.default": "默认",
+    "sidenav.dashboard.analytic": "分析页",
+    "sidenav.dashboard.sales": "销售"
+}
